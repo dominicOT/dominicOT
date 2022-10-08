@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dominicOT
+- 👀 I’m interested in developing software of any kind - games, app & websites
+- 🌱 I’m currently learning app development
+- 💞️ I’m looking to collaborate on my new metaverse game in Unity
+- 📫 You can reach me through dominicoladapotonade@gmail.com
