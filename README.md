@@ -5,3 +5,5 @@
 - 🌱 I’m a Computer Science student at the University of Makeni
 - 💞️ I’m looking to collaborate on my Python voice-assistant
 - 📫 You can reach me through dominicoladapotonade@gmail.com
+
+[![dominicOT's GitHub stats](https://github-readme-stats.vercel.app/api?username=dominicOT)](https://github.com/dominicOT/github-readme-stats)
