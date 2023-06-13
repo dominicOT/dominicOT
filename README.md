@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dominicOT
-- 👀 I’m interested in developing softwares of any kind - games, app & websites
+- 👀 I’m interested in developing mobile and web applications.
 - 🌱 I’m a Computer Science student at the University of Makeni
 - 💞️ I’m looking to collaborate on my Misinformation Solver Web App
 - 📫 You can reach me through dominicoladapotonade@gmail.com
