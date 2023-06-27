@@ -8,6 +8,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominicOT)](https://github.com/dominicOT/github-readme-stats) 
 
+<br>
 ## Github Stat ⚙️
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dominicOT&" alt="Dominic Oladapo-Tonade" />
 
+<br>
+
+## Profile Views
+
+![](https://count.getloli.com/get/@dominicOT.github.readme)
