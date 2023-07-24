@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dominicOT
+- 👋 Hi, I’m Dominic OT
 - 👀 I’m interested in Artificial General Intelligence and Mobile App Development.
 - 🌱 I’m a Computer Science student at the University of Makeni.
 - 💞️ I’m looking to collaborate on my Desktop Chat Application - krYptONeXuZ.
