@@ -1,3 +1,11 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+	<img src="https://readme-typing-svg.herokuapp.com?size=30&center=true&lines=Hi%2C+there!%F0%9F%91%8B;This+is+Dominic+OT...;Nice+to+meet+you">  
+  </a>
+</h1>
+
+<BR>
+
 - 👋 Hi, I’m Dominic OT
 - 👀 I’m interested in Artificial General Intelligence and Mobile App Development.
 - 🌱 I’m a Computer Science student at the University of Makeni.
