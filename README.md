@@ -2,9 +2,9 @@
 - 👋 Hi, I’m Dominic OT
 - 👀 I’m interested in Artificial General Intelligence.
 - 👀 I’m also interested in  Mobile App Development.
-- 🌱 I’m a Computer Science student at the University of Makeni.
+- 🌱 I am a Computer Science student at the University of Makeni.
 - 💞️ I’m looking to collaborate on my Desktop Chat Application - krYptONeXuZ using the SMERN stack (Socket.io, MongoDB, Express, React and NodeJS).
-- 💞️ I’m looking to collaborate on my Teen AI (adrit).
+- 💞️ I'm also looking to collaborate on my Teen AI (adrit) using Python.
 
 <br>
 
