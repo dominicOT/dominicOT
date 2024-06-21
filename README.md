@@ -43,7 +43,4 @@
 
 
 
-
-## Profile Views
-
-![](https://count.getloli.com/get/@dominicOT.github.readme)
+ 
