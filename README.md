@@ -30,8 +30,7 @@
 <br>
 
 [![committers.top badge](https://user-badge.committers.top/sierra_leone_private/dominicOT.svg)](https://user-badge.committers.top/sierra_leone_private/dominicOT)
-<br><br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dominicOT" alt="dominicOT" /></a> </p>
+<br>
 
 <br>
 
