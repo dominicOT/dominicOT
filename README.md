@@ -44,13 +44,6 @@
 
 
 
-<p align="center">
-<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dominicOT&theme=github_dark">
-
-</p>
-</details>
-
-
 ## Profile Views
 
 ![](https://count.getloli.com/get/@dominicOT.github.readme)
