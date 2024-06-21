@@ -41,14 +41,6 @@
 <br>
 
 
-### My Statistics
-<details>
-<summary> Click to Expand </summary>
-<p align="center"><img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominicOT&layout=compact&theme=radical" alt="dominicOT" /><img width="55%" src="https://github-readme-stats.vercel.app/api?username=dominicOT&show_icons=true&include_all_commits=true&theme=radical" alt="dominicOT" /></p>
-
-
-<p align="center"><img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dominicOT&theme=github_dark" alt="dominicOT" /><img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=dominicOT&theme=radical" alt="dominicOT" /></p>
-
 
 
 
