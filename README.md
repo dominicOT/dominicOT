@@ -22,9 +22,6 @@
 
 
 
-<br> <br>
-<a href="https://app.daily.dev/dominic_ot"><img src="https://api.daily.dev/devcards/86100fa0194f4a7c947d5af3fa421113.png?r=mid" width="400" alt="Dominic Oladapo-Tonade's Dev Card"/></a>
-
 
 <br>
 <br>
