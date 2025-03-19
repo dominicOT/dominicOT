@@ -24,6 +24,11 @@
 
 
 <br>
+<p align="center">
+<a href="https://gist.github.com/dominicOT"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="dominicOT :: Visitor's Count" /></a>
+</p>
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 <br>
 
 [![committers.top badge](https://user-badge.committers.top/sierra_leone_private/dominicOT.svg)](https://user-badge.committers.top/sierra_leone_private/dominicOT)
