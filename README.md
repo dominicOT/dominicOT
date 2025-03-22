@@ -25,7 +25,7 @@
 
 <br>
 <p align="center">
-<a href="https://gist.github.com/dominicOT"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="dominicOT :: Visitor's Count" /></a>
+<a href="https://gist.github.com/dominicOT"><img src="https://profile-counter.glitch.me/{dominicOT}/count.svg" alt="dominicOT :: Visitor's Count" /></a>
 </p>
 
 <br>
@@ -45,7 +45,7 @@
 
  <div align="center">
 <!--   <img width=390 src="https://github-readme-streak-stats.vercel.app/api/?user=wandeyyyyy&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wandeyyyyy&count_private=true&theme=react&border_radius=10" alt="streak stats" margin-top="10"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dominicOT&count_private=true&theme=react&border_radius=10" alt="streak stats" margin-top="10"/>
 
 
 </div>
