@@ -3,7 +3,7 @@
 - 👀 I’m interested in Artificial General Intelligence.💞️
 
 <br>
-[![Im actually a vagrant](https://64.media.tumblr.com/01fb98bd843b81ce68c7f5d357e1d6c6/tumblr_n83qrsQ2iC1rhhdfvo1_250.gif)](https://youtu.be/B66y995acNs)
+
 
 ## Connect with me via:
 <p align="center">
@@ -20,7 +20,6 @@
     href="https://wa.me/+23280174187"><img
     src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></img></a>
 </p>
-
 
 
 
