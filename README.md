@@ -32,17 +32,6 @@
 
 <br>
 
-### 📈 Stats:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dominicOT&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true"
-alt="GitHub Stats" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dominicOT&theme=whatsapp-light&border_radius=6&short_numbers=true" alt="GitHub Streak" /></a>
-  <br />
-</div>
-
-
-<br>
 
 [![committers.top badge](https://user-badge.committers.top/sierra_leone_private/dominicOT.svg)](https://user-badge.committers.top/sierra_leone_private/dominicOT)
 <br>
@@ -60,8 +49,19 @@ alt="GitHub Stats" />
  <!-- <div align="center"> -->
 <!--   <img width=390 src="https://github-readme-streak-stats.vercel.app/api/?user=wandeyyyyy&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=dominicOT&count_private=true&theme=react&border_radius=10" alt="streak stats" margin-top="10"/> -->
+## 📈 Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominicOT&langs_count=8&theme=radical&layout=pie)](https://youtu.be/rlVUng3uP8E)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dominicOT&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true"
+alt="GitHub Stats" />
+
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominicOT&langs_count=8&theme=radical&layout=pie)](https://youtu.be/rlVUng3uP8E)
 [![Im actually a vagrant](https://64.media.tumblr.com/01fb98bd843b81ce68c7f5d357e1d6c6/tumblr_n83qrsQ2iC1rhhdfvo1_250.gif)](https://youtu.be/B66y995acNs)
+  
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dominicOT&theme=whatsapp-light&border_radius=6&short_numbers=true" alt="GitHub Streak" /></a>
+</div>
+
+
+<br>
 
 
