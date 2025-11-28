@@ -42,7 +42,6 @@ padding: 0px; margin: 0px;" /></a>
 
 
 
-   [![wakatime](https://wakatime.com/badge/user/5238b76e-698c-47dd-b5d2-ac0aeb9e9264.svg)](https://wakatime.com/@5238b76e-698c-47dd-b5d2-ac0aeb9e9264)
    [![committers.top badge](https://user-badge.committers.top/sierra_leone_private/dominicOT.svg)](https://user-badge.committers.top/sierra_leone_private/dominicOT)
 
 
