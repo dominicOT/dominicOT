@@ -9,7 +9,7 @@ padding: 0px; margin: 0px;" /></a>
 
 - 👋 Hi, I’m Dominic OT
 - 👀 I’m interested in Artificial General Intelligence.💞️
-- 🌍 Check out my technical articles at research.dominicot.xyz
+- 🌍 Check out my technical articles at https://research.dominicot.xyz
 
 <br>
 
