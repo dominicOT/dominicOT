@@ -33,13 +33,12 @@ padding: 0px; margin: 0px;" /></a>
 
 
 
-
+ 
 <br>
 
 ## 📈 GitHub Activity Graph:
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![dominicOT's github stats](https://github-readme-stats.vercel.app/api?username=dominicOT&show_icons=true&theme=radical&include_all_commits=true) | ![dominicOT's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dominicOT&theme=radical&layout=compact) |
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dominicOT"></img>
