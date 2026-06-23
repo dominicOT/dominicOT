@@ -48,7 +48,26 @@ padding: 0px; margin: 0px;" /></a>
 
 <br>
 
+## 👾 Contribution Graph
 
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/dominicOT/github-pacman/raw/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/dominicOT/github-pacman/raw/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pacman contribution graph"
+    src="https://github.com/dominicOT/github-pacman/raw/output/pacman-contribution-graph.svg"
+  />
+</picture>
+
+</div>
 
 
 
